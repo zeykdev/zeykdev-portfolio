@@ -1,4 +1,4 @@
-# zeykdev-portfolio
+# Zeykdev Portfolio
 
 Welcome to my personal portfolio! This website highlights my journey in **programming**, **web development**, **software engineering**, and **cybersecurity**. It’s a place where you can explore my skills, ongoing projects, and find ways to connect with me.
 
